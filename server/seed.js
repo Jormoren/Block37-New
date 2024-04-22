@@ -57,14 +57,14 @@ const {
       createProduct({
         name: "PSG",
         description: "PSG official jersey 23/24",
-        image: "psg.png", // corrected image filename
+        image: "psg.png", 
         price: 195,
         stock: 30,
       }),
       createProduct({
         name: "Manchester",
         description: "Manchester United official jersey 24/25",
-        image: "manchester-united.jpg", // corrected image filename
+        image: "manchester-united.jpg", 
         price: 170,
         stock: 50,
       }),
